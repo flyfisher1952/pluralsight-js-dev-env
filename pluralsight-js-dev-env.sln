@@ -7,20 +7,21 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "pluralsight-js-dev-env", ".
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55340"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\dev\node.js\pluralsight\pluralsight-js-dev-env\"
+		Debug.AspNetCompiler.PhysicalPath = "..\pluralsight-js-dev-env\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55340\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_55340"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\dev\node.js\pluralsight\pluralsight-js-dev-env\"
+		Release.AspNetCompiler.PhysicalPath = "..\pluralsight-js-dev-env\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55340\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55340"
+		SlnRelativePath = "..\pluralsight-js-dev-env\"
 	EndProjectSection
 EndProject
 Global
