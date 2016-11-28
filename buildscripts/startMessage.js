@@ -1,3 +1,4 @@
-var chalk = require('chalk');
+import chalk from 'chalk';
 
-console.log('Starting in DEBUG mode...');
+/* eslint-disable no-console */
+console.log(chalk.green('Starting app in DEV mode...'));
